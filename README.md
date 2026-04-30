@@ -13,3 +13,5 @@ git remote -v
 git remote add <apodo> url
 
 git remote ser-url url
+
+agregado de hoy, 
